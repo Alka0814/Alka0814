@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alka0814&label=Profile%20views&color=0e75b6&style=flat" alt="alka0814" /> </p>
 
-- 💬 Ask me about **nodejs,mongodb,javascript**
+- 💬 Ask me about ** HTML,CSS,Javascript, Node.js,Mongodb,SQL**
 
 - 📫 How to reach me **alkatrivedi1408@gmail.com**
 

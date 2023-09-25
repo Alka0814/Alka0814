@@ -7,7 +7,7 @@
 
 - 💬 Ask me about ** HTML,CSS,Javascript, Node.js,Mongodb,SQL**
 
-- 📫 How to reach me **alkatrivedi1408@gmail.com**
+- 📫 How to reach me **alkatrivedi0814@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MlM4iYoiSPkxCg6UCEwY3RZd27_YS4UH/view?usp=share_link](https://drive.google.com/file/d/1MlM4iYoiSPkxCg6UCEwY3RZd27_YS4UH/view?usp=share_link)
 

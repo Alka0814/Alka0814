@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MlM4iYoiSPkxCg6UCEwY3RZd27_YS4UH/view?usp=share_link](https://drive.google.com/file/d/1MlM4iYoiSPkxCg6UCEwY3RZd27_YS4UH/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> www.linkedin.com/in/alka-trivedi-44248518a
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

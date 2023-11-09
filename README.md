@@ -63,17 +63,10 @@ Welcome to my GitHub profile where I bring the web to life. </i>
 
 
 <h1 align="center"> 📊 GitHub Stats:</h1>
-<p align="center">
-<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alka0814&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Alka" />
-    <br />  -->
-    <br />
-    <img src="https://github-readme-stats.vercel.app/api?username=Alka0814&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Alka" />
-    <br />
-    <br />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alka0814&theme=dark&hide_border=false" alt="Alka" />
-    <br />
-    <br />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Alka0814&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Alka0814&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alka0814&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Alka0814&count_private=true&theme=react-dark&hide_border=true)
 
 <h1 align="center"> 🏆 GitHub Trophies:</h1>
 <p align="center">

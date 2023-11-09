@@ -12,7 +12,7 @@
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" 
+  <img src="https://www.betterteam.com/images/web-developer-job-description-6494x4331-2020128.jpeg?crop=21:16,smart&width=420&dpr=2" 
        alt="Coding" 
        width="50%" 
        height="50%" 

@@ -29,7 +29,7 @@
 <!-- Showcase your projects with a call-to-action -->
 <h3>🚀 Check Out My Projects:</h3>
 <p>
-  <a href="https://https://alka0814.github.io//"><strong>Portfolio</strong></a> - Explore my collection of projects that showcase my skills.
+  <a href="https://https://alka0814.github.io/"><strong>Portfolio</strong></a> - Explore my collection of projects that showcase my skills.
 </p>
 
 <!-- Offer to help with your expertise -->

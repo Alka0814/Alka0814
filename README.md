@@ -15,8 +15,8 @@
   <img src="https://www.betterteam.com/images/web-developer-job-description-6494x4331-2020128.jpeg?crop=21:16,smart&width=420&dpr=2" 
        alt="Coding" 
         
-       height="50%" 
-       style="z-index: -1;">
+       
+      >
 </div>
 
 

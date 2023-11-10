@@ -87,11 +87,7 @@ Let's embark on a journey to shape the digital world together. 🚀
 
 ---
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Alka0814&label=Profile%20views&color=0e75b6&style=flat" alt="alka" /> </p>
 
 <!-- ---- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 

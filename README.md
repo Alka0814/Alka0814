@@ -11,7 +11,7 @@
 </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin-left:300px">
   <img src="https://www.betterteam.com/images/web-developer-job-description-6494x4331-2020128.jpeg?crop=21:16,smart&width=420&dpr=2" 
        alt="Coding" 
         

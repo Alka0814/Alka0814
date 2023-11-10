@@ -7,7 +7,7 @@
 
 <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img  align="center" src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm Alka Trivedi 🏽; Crafting digital dreams one code at a time ✨; Building tomorrow's web today 🌐; Exploring the uncharted territories of technology 🚀&font=Fira%20Code&center=true&width=640&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
+  <img style="textalign:center" src="https://readme-typing-svg.demolab.com/?lines=Hello, I'm Alka Trivedi 🏽; Crafting digital dreams one code at a time ✨; Building tomorrow's web today 🌐; Exploring the uncharted territories of technology 🚀&font=Fira%20Code&center=true&width=640&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000">
 </a>
 </p>
 

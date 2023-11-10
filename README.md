@@ -11,7 +11,7 @@
 </a>
 </p>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin-left:300px">
+<div style=" justify-content: center; align-items: center; height: 100vh;">
   <img src="https://tse4.mm.bing.net/th?id=OIP.eg4zTacGA7wQfxNJ7BgOCwHaEY&pid=Api&P=0&h=220" 
        alt="Coding" 
         
